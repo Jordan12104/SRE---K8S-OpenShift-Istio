@@ -1,4 +1,4 @@
-# SRE---K8S-OpenShift-Istio---new
+# 專題
 ➤   組員介紹
 ➤   專題緣起
 ➤   什麼是 OpenShift
